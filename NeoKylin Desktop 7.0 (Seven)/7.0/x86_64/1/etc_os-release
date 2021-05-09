@@ -1,0 +1,9 @@
+NAME="NeoKylin Desktop"
+VERSION="7.0 (Seven)"
+ID=neokylin
+VERSION_ID="7.0"
+PRETTY_NAME="NeoKylin Desktop 7.0 (Seven)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:neokylin:desktop:7.0"
+HOME_URL="http://www.cs2c.com.cn/"
+BUG_REPORT_URL="http://bugzilla.cs2c.com.cn/"
