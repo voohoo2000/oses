@@ -1,0 +1,10 @@
+NAME="Kylin"
+VERSION="V10 (juniper)"
+ID=kylin
+ID_LIKE=debian
+VERSION_ID="v10"
+PRETTY_NAME="Kylin V10"
+HOME_URL="http://www.kylinos.cn/"
+SUPPORT_URL="http://www.kylinos.cn/service.aspx"
+BUG_REPORT_URL="http://www.kylinos.cn/"
+UBUNTU_CODENAME=juniper
